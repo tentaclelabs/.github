@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile/logo.svg" />
+  <img src="./profile/logo.svg" height=256 />
 </p>
 
 
