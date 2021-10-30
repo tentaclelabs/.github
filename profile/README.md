@@ -6,8 +6,8 @@
 
 Checkout:
 
-* Our website
-* Our blog
+* [Our blog](https://blog.tentaclelabs.com)
+* [Our website](https://tentaclelabs.com)
 * Or our open source projects here
 
 In case you are wondering, we are *not* hiring!
